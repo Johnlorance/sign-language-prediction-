@@ -1,4 +1,4 @@
-# sign-language-prediction-
+# sign-language-prediction
 sign language prediction model using sequential model is a type of machine learning algorithm that is designed to recognize and interpret sign language gestures. This model is based on a deep learning approach, specifically, a type of neural network called a recurrent neural network (RNN).
 
 The sequential model is ideal for sign language recognition because sign language is a sequence of movements that convey meaning, and sequential models are able to capture the temporal dependencies between these movements. In this model, each sign is represented as a sequence of hand gestures and movements, which are fed into the RNN layer one at a time.
